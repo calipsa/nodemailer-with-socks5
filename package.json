@@ -14,7 +14,7 @@
         "Nodemailer"
     ],
     "author": "Usama Ashraf",
-    "license": "ISC",
+    "license": "MIT",
     "bugs": {
         "url": "https://github.com/calipsa/nodemailer-with-socks5/issues"
     },
