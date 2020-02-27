@@ -1,6 +1,6 @@
 {
     "name": "@calipsa/nodemailer-with-socks5",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "description": "Node mailer with SOCKS5",
     "main": "lib/nodemailer.js",
     "scripts": {
